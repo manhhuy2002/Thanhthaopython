@@ -1,0 +1,4 @@
+python3 client.py
+python3 server.py
+
+-De dong ket noi thi Ctrl C hoac gui du lieu trong

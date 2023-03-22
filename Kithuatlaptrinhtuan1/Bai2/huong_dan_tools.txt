@@ -1,0 +1,11 @@
+# Check a single host and port
+python3 check_service.py --host example.com --port 80
+
+# Check multiple hosts and a single port
+python3 check_service.py --ip-file ip.txt --port 80
+
+# Check a single host and multiple ports
+python3 check_service.py --host example.com --port-file port.txt
+
+# Check multiple hosts and ports
+python3 check_service.py --ip-file ip.txt --port-file port.txt

@@ -1,0 +1,2 @@
+python3 get_system_info.py --url www.example.com
+python3 get_system_info.py --url-file scan_url.txt
